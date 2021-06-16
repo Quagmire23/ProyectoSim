@@ -1,0 +1,30 @@
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe.config
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Form1.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Properties.Resources.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.pdb
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe.config
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.pdb
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csprojAssemblyReference.cache
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Form1.resources
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Properties.Resources.resources
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csproj.GenerateResource.cache
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\Daniela\Downloads\1ProyectoSimulacion_Generador-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.pdb
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe.config
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\bin\Debug\ProyectoEquipoSimulacion.pdb
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Form1.resources
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.Properties.Resources.resources
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.P_Distancia.resources
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.exe
+C:\Users\daniel\Desktop\pares\ProyectoSimulacion-main\ProyectoEquipoSimulacion\ProyectoEquipoSimulacion\obj\Debug\ProyectoEquipoSimulacion.pdb
